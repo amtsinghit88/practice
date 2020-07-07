@@ -1,3 +1,5 @@
+package hackerrank;
+
 public class DivisiblityOfString {
 
     public static void main(String [] args){
